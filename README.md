@@ -20,7 +20,7 @@ The app is deployed and accessible at:
 - `forest_classifier_shaunak.joblib` – Serialized Random Forest classifier.
 - `.gitattributes` / `README.md` – Repository configuration and documentation.
 
-GitHub Repository: [Shaunak-Kunde / IPL Win Predictor](https://github.com/Shaunak-Kunde/IPL-Win-Predictor)
+GitHub Repository: [Shaunak-Kunde/8_IPL-Winning-Team-Predicition-App](https://github.com/Shaunak-Kunde/8_IPL-Winning-Team-Predicition-App)
 
 ---
 
